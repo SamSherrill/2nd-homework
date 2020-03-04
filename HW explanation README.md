@@ -1,6 +1,30 @@
 TO DO:
 1) DONE: Create repo & clone to device
-2) 
+2) Setup each page's basic html
+   * Make sure to link bootstrap
+   * Reference another style sheet, which I'll have to create 
+3) Refine HTML
+   * Nav Bar is going to be on each. Get this right, then copy/paste
+4) Refine CSS sheet
+
+
+HELP I NEED:
+1) Is an image better to be in the CSS or in the HTML itself? We saw it in the CSS in the last HW. Ask about my img tag & alt text in the last HW.
+ANSWER for #1: Background images have to be in CSS. 
+GOOGLE how to add a background image CSS
+
+2) Readme from HW 1
+ANSWER: MD files are MarkDown files. Which means that I can do some things to pretty it up in a preview.
+
+Example: # is H1, ## is H2, etc. The numbered list I did worked, but the (a,b,cs) I did
+* is italics
+**Is bold**
+
+Add a link in the deployed site should have been reademe as well. LOOK UP HOW TO LINK TO A WWW.
+
+Screenshots might be a good idea.
+
+------ END PERSONAL NOTES, BEGIN ASSIGNMENT DIRECTIONS ------
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
@@ -29,6 +53,8 @@ First, you will use the Bootstrap CSS Framework to recreate your portfolio. How 
 * Use Bootstrap's grid system (containers, rows, and columns).
 
 * On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+
+*   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 * Notes from Jonathan on styling & other comments:
 SERIF FONT for the nave bar header & the header within the main page. Sans Serif for all other text it looks like.
