@@ -1,12 +1,12 @@
 TO DO:
 1) DONE: Create repo & clone to device
 2) Setup each page's basic html
-   * Make sure to link bootstrap
+   * DONE: Make sure to link bootstrap
    * Reference another style sheet, which I'll have to create 
 3) Refine HTML
    * Nav Bar is going to be on each. Get this right, then copy/paste
 4) Refine CSS sheet
-
+IMAGE OVERLAY IS NOT REQUIRED. Stephanie said it is not responsive with her images, and that Jonathan told her to just take those out.
 
 HELP I NEED:
 1) Is an image better to be in the CSS or in the HTML itself? We saw it in the CSS in the last HW. Ask about my img tag & alt text in the last HW.
@@ -17,7 +17,7 @@ GOOGLE how to add a background image CSS
 ANSWER: MD files are MarkDown files. Which means that I can do some things to pretty it up in a preview.
 
 Example: # is H1, ## is H2, etc. The numbered list I did worked, but the (a,b,cs) I did
-* is italics
+*is italics*
 **Is bold**
 
 Add a link in the deployed site should have been reademe as well. LOOK UP HOW TO LINK TO A WWW.
