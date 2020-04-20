@@ -2,7 +2,7 @@ TO DO:
 1) DONE: Create repo & clone to device
 2) Setup each page's basic html
    * DONE: Make sure to link bootstrap
-   * Reference another style sheet, which I'll have to create 
+   * DONE: Reference another style sheet, which I'll have to create 
 3) Refine HTML
    * Nav Bar is going to be on each. Get this right, then copy/paste
 4) Refine CSS sheet
