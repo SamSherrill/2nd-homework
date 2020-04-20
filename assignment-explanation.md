@@ -39,7 +39,7 @@ First, you will use the Bootstrap CSS Framework to recreate your portfolio. How 
 
 * Using Bootstrap, recreate your portfolio site with the following items:
 
-   * A navbar (SERIF FONT for the nave bar header & the header within the main page. Sans Serif for all other text it looks like.)
+   * A navbar (SERIF FONT for the nav bar header & the header within the main page. Sans Serif for all other text it looks like.)
 
    * A responsive layout
 

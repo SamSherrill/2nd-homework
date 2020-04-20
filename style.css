@@ -1,4 +1,12 @@
 /* OVERALL STYLE CHANGES */
+.nav-bar-name-background {
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgb(89,170,165);
+    padding: 15px;
+}
+
 .profile-pic {
     max-height: 300px;
 }
