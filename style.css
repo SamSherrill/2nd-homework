@@ -1,4 +1,7 @@
 /* OVERALL STYLE CHANGES */
+.profile-pic {
+    max-height: 300px;
+}
 
 /* INDEX SPECIFIC STYLING */
 
