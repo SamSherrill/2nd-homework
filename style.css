@@ -1,4 +1,8 @@
 /* OVERALL STYLE CHANGES */
+body {
+    background-color: lightgrey;
+}
+
 .nav-bar-name-background {
     font-size: 20pt;
     font-weight: bold;
